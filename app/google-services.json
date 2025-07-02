@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923785742205",
+    "project_id": "vibespotapplication",
+    "storage_bucket": "vibespotapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923785742205:android:433573f39e2dbe2a0fee14",
+        "android_client_info": {
+          "package_name": "com.example.vibespotapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxetWuteXGPuGT6DUSQ_CRXjBMmTSLw7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
